@@ -7,6 +7,7 @@ metadata:
     circleci.com/project-slug: github/piomin/sample-spring-boot-app-backstage
     github.com/project-slug: piomin/sample-spring-boot-app-backstage
     sonarqube.org/project-key: piomin_sample-spring-boot-app-backstage
+    backstage.io/kubernetes-id: sample-app
   tags:
     - spring-boot
     - java
